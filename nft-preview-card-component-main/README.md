@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://coolnftcard.netlify.app/)
 
 ## My process  #################################
 Project Start Time: 12:10AM    Friday 11/12/2021
