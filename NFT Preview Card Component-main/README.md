@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AJBrownson/NFT-preview-card/tree/main/nft-preview-card-component-main)
+- Solution URL: [Add solution URL here](https://github.com/AJBrownson/NFT-preview-card/tree/main/NFT%20Preview%20Card%20Component-main)
 - Live Site URL: [Add live site URL here](https://coolnftcard.netlify.app/)
 
 ## My process  #################################
